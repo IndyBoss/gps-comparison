@@ -44,6 +44,6 @@ Deze vergelijking doe ik met de volgende 4 systemen:
 	- Extra: Gewoonte herkenning, Live Locatie
 	
 ### Bronnen
-- [HERE.com](here.com/products)
+- [HERE.com](https://here.com/products)
 	
 	
