@@ -19,6 +19,7 @@ Deze vergelijking doe ik met de volgende 4 systemen:
 	- Verkeerinformatie
 	- Extra: Verbonden met smart horloge, ongeloofelijk handig om te joggen
 	
+	
 - TomTom
 	- Geen overzichtelijke app
 	- Heel uitgebreide instellingen, weg specificering
@@ -26,6 +27,7 @@ Deze vergelijking doe ik met de volgende 4 systemen:
 	- Navigatie: enkel auto.
 	- verkeerinformatie, flitser verklikker
 	- Extra: Geen advertenties, gewoonte herkenning, ETA doorsturen, 3D gebouwen
+	
 	
 - Waze
 	- Zeer overzichtelijk
@@ -35,6 +37,7 @@ Deze vergelijking doe ik met de volgende 4 systemen:
 	- verkeerinformatie, flitser verklikker
 	- Extra: Audiospeler, gewoonte herkenning, ETA doorsturen, Gamification
 	
+	
 - Google Maps
 	- Overzichtelijk
 	- Uitgebreide instellingen, weg specificering
@@ -43,7 +46,18 @@ Deze vergelijking doe ik met de volgende 4 systemen:
 	- verkeerinformatie, flitser verklikker
 	- Extra: Gewoonte herkenning, Live Locatie
 	
-### Bronnen
-- [here.com](https://here.com/products){:target="_blank" rel="noopener"}
+	
+	
+### Bronnen:
+- [here.com](https://here.com/products)
+- [onemorething.nl](https://onemorething.nl/2019/05/google-maps-flitsers/?utm_source=google&utm_medium=organic)
+- [mashtips.com](https://mashtips.com/get-google-map-and-waze-offline/)
+- [tomtom](https://tomtom.com/nl_be/drive/sat-nav-app/go-mobile/)
+- [waze.com](https://waze.com/nl/waze)
+
+- Waze App
+- TomTomGo App
+- HERE WeGo App
+- Google Maps App
 	
 	
