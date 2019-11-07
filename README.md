@@ -52,7 +52,7 @@ Deze vergelijking doe ik met de volgende 4 systemen:
 - [here.com](https://here.com/products)
 - [onemorething.nl](https://onemorething.nl/2019/05/google-maps-flitsers/?utm_source=google&utm_medium=organic)
 - [mashtips.com](https://mashtips.com/get-google-map-and-waze-offline/)
-- [tomtom](https://tomtom.com/nl_be/drive/sat-nav-app/go-mobile/)
+- [tomtom.com](https://tomtom.com/nl_be/drive/sat-nav-app/go-mobile/)
 - [waze.com](https://waze.com/nl/waze)
 
 - Waze App
